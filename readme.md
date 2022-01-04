@@ -19,3 +19,19 @@ Environment: Java 17
 [Excercise 5-33](src/Excercise/Ex5_33.java)
 
 [Excercise 5-37](src/Excercise/Ex5_37.java)
+
+[Excercise 5-45](src/Excercise/Ex5_45.java)
+
+[Excercise 6-3](src/Excercise/Ex6_3.java)
+
+[Excercise 6-10](src/Excercise/Ex6_10.java)
+
+[Excercise 7-3](src/Excercise/Ex7_3.java)
+
+[Excercise 7-5](src/Excercise/Ex7_5.java)
+
+[BubbleSort](src/Excercise/BubbleSort.java)
+
+[SelectionSort](src/Excercise/SelectionSort.java)
+
+[InsertionSort](src/Excercise/InsertionSort.java)

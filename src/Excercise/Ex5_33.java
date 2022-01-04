@@ -1,7 +1,5 @@
 package Excercise;
 
-import static java.lang.Math.sqrt;
-
 public class Ex5_33 {
 
 	public static void main(String[] args) {
