@@ -35,3 +35,7 @@ Environment: Java 17
 [SelectionSort](src/Excercise/SelectionSort.java)
 
 [InsertionSort](src/Excercise/InsertionSort.java)
+
+[CompareFactorial,Excercise 18-1](src/Excercise/CompareFactorial.java)
+
+[Excercise 18-2](src/Excercise/Excercise18_2.java)
